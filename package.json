@@ -1,0 +1,19 @@
+{
+  "name": "redis-practise",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "redis": "latest",
+    "thenjs": "^2.0.3"
+  },
+  "scripts": {},
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dengwei/redis-practise.git"
+  },
+  "author": "dengwei",
+  "license": ""
+}
